@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+input{
+    margin: 10px;
+    font-size: 18px;
+}
+button{
+    font-size: 18px;
+    border-radius: 5px;
+    background-color: #d4d4d4;  
+    margin: 10px;
+}  
+#qrcode{
+    /* border: 1px solid black; */
+    width: 250px;
+    height: 250px;
+}
